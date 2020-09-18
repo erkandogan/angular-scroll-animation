@@ -1,0 +1,14 @@
+.container{
+  text-align: center;
+  margin: auto;
+  padding-top: 768px;
+}
+.box{
+  background: #007aff;
+  width: 200px;
+  height: 200px;
+  display: block;
+  word-spacing: 30px;
+  line-height: 30px;
+  margin: 30px auto;
+}
